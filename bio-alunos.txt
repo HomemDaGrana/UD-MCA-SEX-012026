@@ -1,5 +1,7 @@
-NOME ; DENNER FERREIRA SANTOS
+Nome: Denner ferreira santos
 RA: 823127322
-SEMESTRE : 7 SEMESTRE
-BAIRRO : CIDADE TIRADENTES
-NÃO TRABALHO NA AREA
+Curso: Engenharia de Software
+Semestre: 7
+Bairro: Cidade tiradentes
+Se trabalha: Não trabalho
+Objetivo: Atuar com Engenharia de Software
